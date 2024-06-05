@@ -1,0 +1,18 @@
+{
+  "Name": "[UM&P] Half Life 2 Characters Mod",
+  "Author": "Um, Idk & Kubaadamiec",
+  "Description": "Add characters from Half-Life 2.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.27+",
+  "ThumbnailPath": "Thumbnail.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "Code/script.cs",
+    "Code/AlwaysGoodBloodFlow.cs",
+    "Code/UmAPI.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3127213226"
+}

@@ -1,0 +1,7 @@
+[h1]1.1 Update[/h1]
+[h2]Added[/h2]
+Death sounds for combine units
+[h2]Changed[/h2]
+Characters "details". Now they have stuff like bracelets on only one arm
+[h2]Fixed[/h2]
+Fixed head being rendered on top of "collars" of combine units
