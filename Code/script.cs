@@ -119,6 +119,7 @@ namespace Mod
 
                         Head.GetComponent<PhysicalBehaviour>().Properties = ModAPI.FindPhysicalProperties("Human");
                         Head.GetComponent<LimbBehaviour>().SetLimbSprite(ModAPI.LoadSprite("Sprites/Gordon/Head Skin.png"), ModAPI.LoadSprite("Sprites/Gordon/Head Flesh.png"), ModAPI.LoadSprite("Sprites/Gordon/Head Skeleton.png"), ModAPI.LoadSprite("Sprites/Gordon/Head Damage.png"));
+                        LowerBody.GetComponent<LimbBehaviour>().SetLimbSprite(ModAPI.LoadSprite("Sprites/Gordon/Lowe Body Skin.png"), ModAPI.LoadSprite("Sprites/Gordon/Lower Body Flesh.png"), ModAPI.LoadSprite("Sprites/Gordon/Lower Body Skeleton.png"), ModAPI.LoadSprite("Sprites/Gordon/Lower Body Damage.png"));
                     }
                 }
             );
